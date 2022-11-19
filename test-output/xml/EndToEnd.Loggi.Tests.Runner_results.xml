@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Automacao2"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10,494">
+    <properties></properties>
+
+
+
+            <testcase
+                name="teste01"
+                time="10,494"
+                classname="EndToEnd.Loggi.Tests.Runner">
+            </testcase>
+</testsuite>
